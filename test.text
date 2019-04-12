@@ -3,3 +3,7 @@ git-test 在这修改了
 commit 1
 commit 2
 commit 3
+
+amend commit
+
+amend commit2
